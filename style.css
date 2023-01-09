@@ -3,7 +3,7 @@
 }
 .promo-text{
     color: white;
-    margin-top: 10%;
+    margin-top: 5%;
     margin-left: 5%;
     font-size: 70px;
 }
@@ -13,5 +13,17 @@
 .btn{
     margin-left: 5%;
     margin-top: 3%;
-    
+}
+.img-gallery{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+.afooter{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
